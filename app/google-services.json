@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "800071838578",
+    "project_id": "fir-authentication-ex-65",
+    "storage_bucket": "fir-authentication-ex-65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800071838578:android:9ffd8f07799875cb230beb",
+        "android_client_info": {
+          "package_name": "br.com.zup.exerciciofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800071838578-ulpbg79pi8fl9j3s8b5ijakvf058901h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7MdWtEfjxXPLmiuLspw-yqV0fKY9CQ6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800071838578-ulpbg79pi8fl9j3s8b5ijakvf058901h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
